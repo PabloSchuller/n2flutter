@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1001927605995",
+    "project_id": "n2flutter-f3b14",
+    "storage_bucket": "n2flutter-f3b14.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001927605995:android:65366a9a25815b867088ae",
+        "android_client_info": {
+          "package_name": "com.example.n2mobileflutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC13xMi0RfBX4O_kLfq8NtgjBA-Rz3TaXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
